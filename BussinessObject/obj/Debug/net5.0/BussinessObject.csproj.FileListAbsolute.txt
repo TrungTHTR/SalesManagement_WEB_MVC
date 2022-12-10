@@ -1,0 +1,15 @@
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\bin\Debug\net5.0\BussinessObject.deps.json
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\bin\Debug\net5.0\BussinessObject.runtimeconfig.json
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\bin\Debug\net5.0\BussinessObject.runtimeconfig.dev.json
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\bin\Debug\net5.0\BussinessObject.dll
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\bin\Debug\net5.0\BussinessObject.pdb
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\obj\Debug\net5.0\BussinessObject.csproj.AssemblyReference.cache
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\obj\Debug\net5.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\obj\Debug\net5.0\BussinessObject.AssemblyInfoInputs.cache
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\obj\Debug\net5.0\BussinessObject.AssemblyInfo.cs
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\obj\Debug\net5.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\obj\Debug\net5.0\BussinessObject.dll
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\obj\Debug\net5.0\refint\BussinessObject.dll
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\obj\Debug\net5.0\BussinessObject.pdb
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\obj\Debug\net5.0\BussinessObject.genruntimeconfig.cache
+D:\Project\PRN211\SANG\Excercise\Ass03Solution_SE1608_Group03\BussinessObject\obj\Debug\net5.0\ref\BussinessObject.dll

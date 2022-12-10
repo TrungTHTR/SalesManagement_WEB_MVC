@@ -1,0 +1,63 @@
+﻿@model BussinessObject.Models.TblMember
+
+@{
+    ViewBag.Title = "HomePage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+
+<h1>Home Page</h1>
+<h2>@Model.Email</h2>
+
+<div class="row">
+
+    <div class="col-md-4">
+        <form asp-action="Index" asp-controller="TblMembers">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <input type="hidden" asp-for="@Model.Email" />
+            <div class="form-group">
+                <h3>
+                    <i class="bi bi-person">
+                        <input type="submit" value="Members" class="btn btn-primary" />
+                    </i>
+                </h3>
+            </div>
+
+        </form>
+    </div>
+
+    <div class="col-md-4">
+        <form asp-action="Index" asp-controller="TblProducts">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <input type="hidden" asp-for="@Model.Email" />
+            <h3>
+                <div class="form-group">
+                    <i class="bi bi-box">
+                        <input type="submit" value="Products" class="btn btn-primary" />
+                    </i>
+                </div>
+            </h3>
+        </form>
+    </div>
+    <div class="col-md-4">
+        <form asp-action="Index" asp-controller="TblOrders">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <input type="hidden" asp-for="@Model.Email" />
+            <h3>
+                <div class="form-group">
+                    <i class="bi bi-receipt">
+                        <input type="submit" value="Orders" class="btn btn-primary" />
+                    </i>
+                </div>
+            </h3>
+        </form>
+    </div>
+    <div>
+        <a asp-action="Login">Logout</a>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
